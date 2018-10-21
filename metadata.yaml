@@ -1,5 +1,5 @@
 _repo: The-Lights-and-Shadows-of-Real-Life_4627
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -30,6 +30,7 @@ subjects:
 - !lcsh 'Conduct of life -- Fiction'
 - !lcsh 'Temperance -- Fiction'
 - !lcc 'PS'
+- GITenberg
 tableOfContents: The factory girl -- The two pictures -- Brandy as a preventive --
   The temperance pledge -- Time, faith, energy -- Flushed with wine -- Swearing off
   -- The failing hope -- Taking toll -- Thou art the man -- The touching reproof --
